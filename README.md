@@ -1,2 +1,4 @@
 # uobrainflex_reports
-Reports related to the UO brainflex project.
+Reports (usually as Jupyter notebooks) related to the UO brainflex project.
+
+For the main package, see [uobrainflex](https://github.com/sjara/uobrainflex).
